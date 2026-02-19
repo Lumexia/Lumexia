@@ -8,10 +8,6 @@
 <br>
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/393fc732-9866-4721-8fee-f848116d28e7.svg)](https://wakatime.com/@393fc732-9866-4721-8fee-f848116d28e7)
-
-> A cute coder.
-
 <a href="https://github.com/sukkaw#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumexia&theme=default#gh-light-mode-only" align="right" alt="My GitHub Stats" />
 </a>
@@ -19,6 +15,10 @@
 <a href="https://github.com/sukkaw#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumexia&theme=nord_dark#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
+
+[![wakatime](https://wakatime.com/badge/user/393fc732-9866-4721-8fee-f848116d28e7.svg)](https://wakatime.com/@393fc732-9866-4721-8fee-f848116d28e7)
+
+> A cute coder.
 
 <br>
 
