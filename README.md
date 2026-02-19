@@ -6,13 +6,12 @@
 </a>
 
 <br>
-<br>
 
-<a href="https://github.com/sukkaw#gh-light-mode-only">
+<a href="https://github.com/lumexia#gh-light-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumexia&theme=default#gh-light-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
-<a href="https://github.com/sukkaw#gh-dark-mode-only">
+<a href="https://github.com/lumexia#gh-dark-mode-only">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumexia&theme=nord_dark#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
@@ -25,7 +24,7 @@
 **Where to find me**
 
 [Portfolio](https://lumexia.top) ·
-[Blog](https://blog.lumexia.top) ·
+[Blog](https://blog.lumexia.top) 
 
 **My GitHub Activities**
 
