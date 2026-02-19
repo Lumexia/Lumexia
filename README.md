@@ -13,11 +13,11 @@
 > A cute coder.
 
 <a href="https://github.com/sukkaw#gh-light-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumexia&theme=default#gh-light-mode-only" align="right" alt="My GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumexia&theme=default#gh-light-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
 <a href="https://github.com/sukkaw#gh-dark-mode-only">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lumexia&theme=nord_dark#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lumexia&theme=nord_dark#gh-dark-mode-only" align="right" alt="My GitHub Stats" />
 </a>
 
 <br>
