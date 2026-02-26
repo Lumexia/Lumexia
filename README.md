@@ -1,8 +1,8 @@
-<a href="https://blog.lumexia.top#gh-light-mode-only">
-  <img src="https://github.com/user-attachments/assets/810b78fd-aea4-4f69-bc42-ff3c518de505">
+<a href="https://lumexia.top#gh-light-mode-only">
+  <img src="https://github.com/user-attachments/assets/8079916b-9248-4bdb-a1c2-4d6ddc06908f">
 </a>
-<a href="https://blog.lumexia.top#gh-dark-mode-only">
-  <img src="https://github.com/user-attachments/assets/9c5addc6-2758-4d2b-9bd6-bc92f8c9c6af">
+<a href="https://lumexia.top#gh-dark-mode-only">
+  <img src="https://github.com/user-attachments/assets/93b151bd-50d8-451d-81c3-90353f88dcb9">
 </a>
 
 <br>
@@ -23,7 +23,7 @@
 
 **Where to find me**
 
-[Portfolio](https://lumexia.top) ·
+[Hub](https://lumexia.top) 
 [Blog](https://blog.lumexia.top) 
 
 **My GitHub Activities**
