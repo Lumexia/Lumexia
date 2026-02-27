@@ -23,7 +23,7 @@
 
 **Where to find me**
 
-[Hub](https://lumexia.top) 
+[Hub](https://lumexia.top) ·
 [Blog](https://blog.lumexia.top) 
 
 **My GitHub Activities**
